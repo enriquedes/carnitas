@@ -12,7 +12,6 @@ In this project we will be building a traffic light system using an Arduino. Wit
 * 2 x Toy cars (Hot-wheels type)
 * 1 x 10k ohm resistor
 * 6 x 220 ohm resistor
-* 1 x push button switch
 * 1 x red LED
 * 1 x yellow LED
 * 1 x green LED
