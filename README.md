@@ -1,6 +1,8 @@
 # Traffic Light Controller Project [2.1]
 
-In this project we will be building a traffic light system using an Arduino. With the use of a photoresistor, the traffic light will change with the presence of a toy car which will be moving with the help of a magnet.
+In this project we will be building a traffic light system using an Arduino Uno. With the use of a photoresistor, the traffic light will change with the presence of a toy car which will be moving with the help of a magnet.
+
+![Arduino build](https://github.com/enriquedes/carnitas/blob/master/img/IMG_0991.JPG)
 
 # Requirements and Materials
 
