@@ -1,17 +1,15 @@
-# Traffic Light Controller Project [2.0]
+# Traffic Light Controller Project [2.1]
 
-In this project we will be building a traffic light system using an Arduino. With the use of an infrared sensor, the traffic light will change with the presence of a toy car which will be moving with the help of a magnet.
+In this project we will be building a traffic light system using an Arduino. With the use of a photoresistor, the traffic light will change with the presence of a toy car which will be moving with the help of a magnet.
 
 # Requirements and Materials
 
 * 1 x Arduino (Any Arduino works)
 * 1 x Laser pointer
 * 1 x Photoresistor
-* 1 x Magnet
 * 2 x Toy cars (Hot-wheels type)
-* 6 x 220 ohm resistor
+* 4 x 220 ohm resistor
 * 2 x red LED
-* 2 x RGB LED
 * 2 x green LED
 * Jumper cables
 
