@@ -40,7 +40,7 @@ void loop()
   Serial.print("I just read: ");
   Serial.println(pot_value);     //Print photoresistor light value in console and go to next line
     
-        if (pot_value > 1000) // if photoresistor light value more than 1000 perform condition (treshold)
+        if (pot_value < 620) // if photoresistor light value more than 1000 perform condition (treshold)
         {
             changeLights(); // function call to switch lights
             delay(2000); // wait for 2 seconds to perform loop again
@@ -54,7 +54,7 @@ void changeLights() // change lights function to switch lights
     digitalWrite(red1, HIGH);
     digitalWrite(red2, LOW);
     digitalWrite(green2, HIGH);
-    delay(10000); //delay of 10 seconds to switch back to original setup
+    delay(8000); //delay of 8 seconds to switch back to original setup
 
     //green1 on red1 on, green2 off red2 off
     digitalWrite(green1, HIGH);
@@ -63,4 +63,4 @@ void changeLights() // change lights function to switch lights
     digitalWrite(green2, LOW);
     delay(3000);
 
-}// end of program
+}//end of program
