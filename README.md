@@ -14,13 +14,15 @@ In this project we will be building a traffic light system using an Arduino Uno.
 * 2 x red LED
 * 2 x green LED
 * CAT 5 cable (copper wire)
+* Cardboard
+* Foam
 * Safety pins
 * Jumper cables
 
 
 # Build Instructions
 
-LED's cathode legs are connected to each other and then connected to ground. 220-ohm resistors are connected to the LED's anode legs and then connected to their respective Arduino pins. The photoresitor is connected to 5V in one leg and in the other leg to a 220-ohm resistor which is connected to an Analog pin in the Arduino, and in the other end to ground. Use copper wire to extend LED's and the photoresistor place wherever you want.
+LED's cathode legs are connected to each other and then connected to ground. 220-ohm resistors are connected to the LED's anode legs and then connected to their respective Arduino pins. The photoresitor is connected to 5V in one leg and in the other leg to a 220-ohm resistor which is connected to an Analog pin in the Arduino, and in the other end to ground. Use copper wire to extend LED's legs to place them inside the foam and the photoresistor to place them pointing towards the laser pointer.
 ![Arduino build](https://github.com/enriquedes/carnitas/blob/master/img/IMG_0991.JPG)
 ![Arduino build](https://github.com/enriquedes/carnitas/blob/master/img/Project%20build_bb.jpg)
 
