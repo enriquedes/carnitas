@@ -19,6 +19,7 @@ In this project we will be building a traffic light system using an Arduino Uno.
 # Build Instructions
 
 Describe build, add picture.
+![Arduino build](https://github.com/enriquedes/carnitas/blob/master/img/Project%20build_bb.jpg)
 
 # Usage
 
