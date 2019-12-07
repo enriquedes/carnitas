@@ -13,6 +13,8 @@ In this project we will be building a traffic light system using an Arduino Uno.
 * 5 x 220 ohm resistor
 * 2 x red LED
 * 2 x green LED
+* CAT 5 cable (copper wire)
+* Safety pins
 * Jumper cables
 
 
