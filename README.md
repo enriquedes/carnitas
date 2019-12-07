@@ -1,6 +1,6 @@
-# Traffic Light Controller Project [2.1]
+# Traffic Light Controller Project [2.2]
 
-In this project we will be building a traffic light system using an Arduino Uno. With the use of a photoresistor, the traffic light will change with the presence of a toy car which will be moving with the help of a magnet.
+In this project we will be building a traffic light system using an Arduino Uno. With the help of a photoresistor, the traffic light will change with the movement of an RC car.
 
 ![Arduino build](https://github.com/enriquedes/carnitas/blob/master/img/IMG_0991.JPG)
 
@@ -9,7 +9,7 @@ In this project we will be building a traffic light system using an Arduino Uno.
 * 1 x Arduino (Any Arduino works)
 * 1 x Laser pointer
 * 1 x Photoresistor
-* 2 x Toy cars (Hot-wheels type)
+* 2 x RC cars
 * 4 x 220 ohm resistor
 * 2 x red LED
 * 2 x green LED
@@ -22,7 +22,7 @@ Describe build, add picture.
 
 # Usage
 
-The project consists in a traffic light intersection powered by an Arduino Uno which changes with the help of a laser and a photoresistor. The photoresistor measures the amount of light in its surroundings; furthermore, if the laser is pointing to the photoresistor all the time and the laser gets blocked by a toy car, in this case, the light measurement will fluctuate resulting in changing the traffic lights from red to green.
+The project consists in a traffic light intersection powered by an Arduino Uno which changes with the help of a laser and a photoresistor. The photoresistor measures the amount of light in its surroundings; furthermore, if the laser is pointing to the photoresistor all the time and the laser gets blocked by an RC car, in this case, the light measurement will fluctuate resulting in changing the traffic lights from red to green.
 
 
 # Team
