@@ -2,7 +2,7 @@
 
 In this project we will be building a traffic light system using an Arduino Uno. With the help of a photoresistor and a laser pointer, the traffic light will change with the movement of an RC car.
 
-
+![Traffic light project](https://github.com/enriquedes/carnitas/blob/master/img/IMG_1004.JPG)
 
 # Requirements and Materials
 
