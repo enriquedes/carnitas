@@ -18,7 +18,7 @@ In this project we will be building a traffic light system using an Arduino Uno.
 
 # Build Instructions
 
-LED's cathode legs are connected to each other and then connected to ground. 220-ohm resistors are connected to the LED's anode legs and then connected to their respective Arduino pins. The photoresitor is connected to 5V in one leg and in the other leg to a 220-ohm resistor which is connected to an Analog pin in the Arduino, and in the other end to ground.
+LED's cathode legs are connected to each other and then connected to ground. 220-ohm resistors are connected to the LED's anode legs and then connected to their respective Arduino pins. The photoresitor is connected to 5V in one leg and in the other leg to a 220-ohm resistor which is connected to an Analog pin in the Arduino, and in the other end to ground. Use copper wire to extend LED's and the photoresistor place wherever you want.
 ![Arduino build](https://github.com/enriquedes/carnitas/blob/master/img/Project%20build_bb.jpg)
 
 # Usage
